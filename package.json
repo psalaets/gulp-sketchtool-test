@@ -1,0 +1,16 @@
+{
+  "name": "gulp-sketchtool-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "svg": "gulp svg"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sketch": "0.0.10"
+  }
+}
